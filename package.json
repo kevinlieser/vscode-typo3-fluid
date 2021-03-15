@@ -1,0 +1,47 @@
+{
+	"name": "typo3-fluid",
+	"displayName": "TYPO3 Fluid",
+	"description": "Autocompletion and snippets for TYPO3 Fluid",
+	"icon": "images/icon.png",
+	"version": "0.1.0",
+	"preview": true,
+	"publisher": "kamediendesign",
+	"galleryBanner": {
+		"color": "#ffffff",
+		"theme": "light"
+	},
+	"license": "MIT",
+	"keywords": [
+		"typo3",
+		"fluid",
+		"snippets",
+		"autocompletion"
+	],
+	"categories": [
+		"Snippets"
+	],
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"contributes": {
+		"snippets": [
+			{
+				"language": "html",
+				"path": "./snippets/fluid.json"
+			}
+		],
+		"html": {
+			"customData": [
+				"./html.html-data.json"
+			]
+		}
+	},
+	"devDependencies": {
+		"vscode": "^1.0.0"
+	},
+	"__metadata": {
+		"id": "8ffba885-bfe5-4be2-aef1-6e682bc208f4",
+		"publisherId": "a86419f7-ea8e-4ab2-a76a-955f5bfb8ed7",
+		"publisherDisplayName": "febLey"
+	}
+}
