@@ -47,10 +47,5 @@
 	},
 	"devDependencies": {
 		"vscode": "^1.0.0"
-	},
-	"__metadata": {
-		"id": "8ffba885-bfe5-4be2-aef1-6e682bc208f4",
-		"publisherId": "a86419f7-ea8e-4ab2-a76a-955f5bfb8ed7",
-		"publisherDisplayName": "febLey"
 	}
 }
