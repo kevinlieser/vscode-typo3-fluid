@@ -11,6 +11,15 @@
 		"theme": "light"
 	},
 	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kevinlieser/vscode-typo3-fluid/issues",
+		"email": "smcbreen@microsoft.com"
+	},
+	"homepage": "https://github.com/kevinlieser/vscode-typo3-fluid",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kevinlieser/vscode-typo3-fluid.git"
+	},
 	"keywords": [
 		"typo3",
 		"fluid",
